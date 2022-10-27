@@ -1,0 +1,75 @@
+* { margin: 0px; padding: 0px; border: 0px; outline: 0px; box-sizing: border-box; font-family: arial; }
+.container { width: 90%; margin: auto; }
+.section { margin: 50px 0px; }
+.raw { width: 100%; float: left; margin-bottom: -246px; }
+.col-1 { width: 8.33%; float: left; }
+.col-2 { width: 16.66%; float: left; }
+.col-3 { width: 25%; float: left; }
+.col-4 { width: 33.33%; float: left; }
+.col-5 { width: 41.66%; float: left; }
+.col-6 { width: 50%; float: left; }
+.col-7 { width: 58.33%; float: left; }
+.col-8 { width: 66.66%; float: left; }
+.col-9 { width: 75%; float: left; }
+.col-10 { width: 83.33%; float: left; }
+.col-11 { width: 91.66%; float: left; }
+.col-12 { width: 100%; float: left; }
+h1 { margin: 20px 238px; }
+p { font-size: 12px; }
+header { background: url("image/Image.png") center center / cover no-repeat; margin-bottom: -200px; }
+.logo-part { }
+.menu-part { }
+.menu-part ul { text-align: right; }
+.menu-part li { list-style: none; display: inline-block; padding: 12px 10px; }
+.menu-part li a { text-decoration: none; font-size: 15px; color: white; }
+.hero-part { text-align: center; margin: 100px 10px; color: white; }
+.hero-part button { color: white; padding: 5px 10px; border: 1px solid white; border-radius: 5px; background: transparent; margin: 17px 10px; }
+.hero-part button:hover { background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); transition: all 0.5s ease-in-out 0s; }
+#iconic { background-image: url("image/image-2.png"); background-size: cover; padding: 178px 0px; margin-bottom: 5px; }
+.mobile { }
+.icons { }
+.first-raw { }
+.free { right: 26px; bottom: 12px; position: relative; box-shadow: 0px 3px 5px; padding: 50px 65px; }
+.support { position: relative; left: 21px; top: 30px; box-shadow: 0px 3px 5px; padding: 50px 65px; }
+.secund-raw { }
+.design { right: 52px; bottom: -42px; position: relative; box-shadow: 0px 3px 5px; padding: 50px 65px; }
+.user { right: 10px; top: 71px; position: relative; box-shadow: 0px 3px 5px; padding: 50px 65px; }
+#stable { margin: 50px 0px; }
+.stable-part { text-align: right; padding: 37px; }
+.stable-part button { color: white; background-color: rgb(51, 210, 253); padding: 5px 16px; border-radius: 5px; margin: 33px; }
+.writing-icon-part { }
+.heart { padding: 5px 10px; border: 1px solid black; }
+.free-of-use { background-color: rgb(51, 210, 253); padding: 20px 10px; margin: 7px 5px; }
+.support-icon { padding: 5px 10px; box-shadow: 4px 0px 5px; }
+.flat { padding: 5px 10px; box-shadow: 4px 0px 5px; margin-top: 8px; }
+#you-need { margin: 50px 0px; }
+.everything { padding: 51px; }
+.everything i { background-color: rgb(51, 210, 255); border-radius: 10px; }
+.pograms { text-align: center; }
+.pograms img { width: 80%; }
+
+
+#now-available { background-color: rgb(51, 210, 253); padding: 50px 0px; margin: 5px; }
+.available{ padding: 25px;}
+.box{}
+.phone img { text-align: center; width: 51%; }
+.phone button { position: relative; top: 69px; left: 110px; background-color: rgb(249, 79, 120); color: white; padding: 13px 39px; font-weight: 700; }
+#Condition { margin: 100px 0px; }
+#tuch { margin: 100px 0px; text-align: center; }
+.info { }
+.info ul { }
+.info li { list-style: none; }
+.info li a { list-style: none; text-decoration: none; font-size: 13px; }
+.Get-tuch {
+    margin: 50px 0px;
+}
+.Get-tuch button { background-color: rgb(51, 210, 253); padding: 5px 10px; font-weight: 700; margin: 30px 0px 0px 280px; }
+footer{background-color: #233148;
+        color: white;
+    padding: 40px 0px;}
+.social{text-align: right;
+ 
+}
+.social i{padding: 0px 10px;
+width: 80px;
+}
